@@ -1,0 +1,8 @@
+Name: lib.saxonica-saxon-he
+Title: Library Wrapper: Saxon-HE (Saxon XSLT/XQuery Processor, Home Edition)
+Requires:
+Augments:
+Suggests:
+Declares:
+Provides: lib.saxonica-saxon-he saxon-he
+Replaces:
