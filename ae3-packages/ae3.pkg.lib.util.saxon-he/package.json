@@ -1,0 +1,6 @@
+{
+	name : 'ae3.pkg.lib.util.saxon-he',
+	title : 'AE3 Library Wrapper: Saxon-HE (Saxon XSLT/XQuery Processor, Home Edition, v9.8.0-15, MPL 2.0)',
+	provides : 'ae3.pkg.lib.util.saxon-he',
+	requires : 'java'
+}
