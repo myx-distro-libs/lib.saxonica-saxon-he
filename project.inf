@@ -4,5 +4,11 @@ Requires:
 Augments:
 Suggests:
 Declares:
-Provides: lib.saxonica-saxon-he saxon-he
+Provides: \
+	lib.saxonica-saxon-he \
+	saxon-he \
+	ae3.pkg.lib.util.saxon-he \
+	source-process:ae3-packages \
+	export-classpath:java \
+
 Replaces:
